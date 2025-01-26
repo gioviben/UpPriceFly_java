@@ -4,4 +4,4 @@ UpPriceFly aims to monitor flight prices and notify users of any changes. Since 
 
 See the complete [documentation](https://github.com/gioviben/UpPriceFly_java/blob/master/DOC/Documentation_ITA.pdf).
 
-The python version is [UpPriceFly_java](https://github.com/gioviben/UpPriceFly_python). (The python version doesn't contain design patterns).
+The python version is [UpPriceFly_python](https://github.com/gioviben/UpPriceFly_python). (The python version doesn't contain design patterns).
